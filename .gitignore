@@ -1,0 +1,8 @@
+venv
+.idea/
+.DS_Store
+__pycache__
+__init__.pyc
+configs/local.py
+*.pyc
+beaker_middleware_data

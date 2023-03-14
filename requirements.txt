@@ -1,0 +1,8 @@
+bottle==0.12.25
+Beaker==1.12.1
+paste==3.5.2
+sqlalchemy==2.0.6
+alembic==1.10.2
+psycopg2-binary==2.9.5
+psycopg2==2.9.5
+requests==2.28.2
